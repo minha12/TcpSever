@@ -1,0 +1,5 @@
+bin/
+obj/
+tcp_server.cbp
+tcp_server.depend
+tcp_server.layout
